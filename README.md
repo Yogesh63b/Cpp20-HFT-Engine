@@ -13,7 +13,7 @@ A low-latency, zero-allocation event-driven trading engine built in C++20. Desig
 
 ## 🏗️ System Architecture
 
-```mermaid
+
 graph TD
     A[Exchange / WebSocket] -->|JSON Stream| B(Network Handler)
     B -->|Raw Bytes| C{SIMD Parser}
@@ -126,7 +126,7 @@ A low-latency, zero-allocation event-driven trading engine built in C++20. Desig
 
 ## 🏗️ System Architecture
 
-```mermaid
+
 graph TD
     A[Exchange / WebSocket] -->|JSON Stream| B(Network Handler)
     B -->|Raw Bytes| C{SIMD Parser}
