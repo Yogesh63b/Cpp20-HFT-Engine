@@ -12,7 +12,6 @@ A low-latency, zero-allocation event-driven trading engine built in C++20. Desig
 * **Backtesting Engine:** Includes a robust event-replay simulator to validate strategies against recorded market data tick-by-tick.
 
 ## 🏗️ System Architecture
-
 ```mermaid
 graph TD
     A[Exchange / WebSocket] -->|JSON Stream| B(Network Handler)
