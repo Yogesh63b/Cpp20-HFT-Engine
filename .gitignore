@@ -1,0 +1,16 @@
+# Ignore the Build folder (where executables live)
+build/
+
+# Ignore Executables
+OrderBookEngine
+Backtester
+
+# Ignore Data Logs
+market_data.log
+*.log
+
+# Ignore Mac System files
+.DS_Store
+
+# Ignore VS Code settings
+.vscode/
