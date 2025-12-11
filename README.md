@@ -219,8 +219,4 @@ Cooldowns: Prevents strategy spamming during high volatility.
 
 [ ] Kernel Bypass (Solarflare/DPDK) for sub-microsecond networking.
 
-Disclaimer: This software is for educational purposes. Use at your own risk.
-2.  Create a **New File**.
-3.  Name it exactly: `README.md`
-4.  Paste the text above into it.
-5.  Save.
+Disclaimer: This software is for educational purposes only.
