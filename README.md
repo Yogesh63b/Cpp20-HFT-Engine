@@ -213,6 +213,7 @@ Position Limit: Net inventory > 0.01 BTC is rejected.
 Cooldowns: Prevents strategy spamming during high volatility.
 
 📈 Future Roadmap
+
 [ ] Implement Lock-Free Ring Buffer (LMAX Disruptor) for thread separation.
 
 [ ] Add FIX Protocol (4.2/4.4) for institutional connectivity.
