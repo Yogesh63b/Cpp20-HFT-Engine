@@ -200,7 +200,7 @@ Record data by running the Engine for a few minutes (logs to market_data.log).
 
 Run the replay:
 
-Bash
+```Bash
 
 ./Backtester
 
