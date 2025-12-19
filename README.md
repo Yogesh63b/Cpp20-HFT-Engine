@@ -204,7 +204,7 @@ Run the replay:
 
 ./Backtester
 
-🛡️ Risk Management
+### 🛡️ Risk Management
 The system enforces strict pre-trade limits:
 
 Max Notional: Orders > $2,000 are rejected.
